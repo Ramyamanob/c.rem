@@ -1,4 +1,3 @@
-# c.rem
 #include<stdio.h>
 int main()
 {
